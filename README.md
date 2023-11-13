@@ -29,4 +29,4 @@ def circulate():
 ![Alt text](image.png)
 
 ## Result:
-The 
+Thus the circulate n variables was succesfully executed
