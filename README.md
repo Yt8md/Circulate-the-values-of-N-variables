@@ -36,7 +36,8 @@ def circulate():
     print("After circulating the values are:",result)
 ```
 ## Output:
+![Screenshot 2023-11-18 090056](https://github.com/Yt8md/Circulate-the-values-of-N-variables/assets/144443644/1ec5ed01-7e3e-4bf2-8bd6-0d45e11c84c5)
 
-C:\Users\admin\Pictures\Screenshots\Screenshot 2023-11-18 090056.png
+
 ## Result:
 Thus the circulate n variables was succesfully executed
